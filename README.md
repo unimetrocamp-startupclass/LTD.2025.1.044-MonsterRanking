@@ -1,5 +1,7 @@
 # Monster Ranking - README
 
+link do artigo: https://www.linkedin.com/pulse/monster-ranking-lucas-silva-bg4ue/?trackingId=cysZQoZFSHOImFKjIAMCBQ%3D%3D
+
 ## 📄 Dados do Cliente
 **Projeto:** MonsterRanking: um sistema de engajamento para alunos de academia  
 **Cliente:** Academia Corpo Atlético  
