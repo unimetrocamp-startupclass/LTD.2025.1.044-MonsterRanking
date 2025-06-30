@@ -98,4 +98,12 @@ A criação de um perfil no LinkedIn para o projeto está prevista, contendo:
 
 ---
 
+## 🚀 11. Relato Individual
+### João Henrique Augait do Nascimento 
+Neste relato compartilho minha experiência durante o desenvolvimento de um aplicativo mobile, no qual fui responsável por uma parte essencial do projeto: a construção das interfaces (telas) e a integração com o Firebase.
+
+Desde o início do projeto, envolvi-me ativamente no planejamento e na estruturação da aplicação, focando principalmente na experiência do usuário (UX) e na arquitetura das telas. Utilizei ferramentas modernas de desenvolvimento mobile (como Flutter ), com atenção especial à responsividade, fluidez da navegação e organização visual dos componentes.
+
+A integração com o Firebase foi uma etapa crucial, que exigiu atenção especial à segurança e à eficiência da comunicação entre o app e o backend. Realizei a configuração dos serviços de autenticação (Firebase Auth), banco de dados em tempo real (ou Firestore, conforme o projeto), e também implementei o armazenamento de dados e arquivos. Trabalhei ainda na lógica de autenticação de usuários, leitura e escrita de dados no banco, e controle de sessões.
+
 
