@@ -1,7 +1,5 @@
 # Monster Ranking - README
 
-link do artigo: https://www.linkedin.com/pulse/monster-ranking-lucas-silva-bg4ue/?trackingId=cysZQoZFSHOImFKjIAMCBQ%3D%3D
-
 ## 📄 Dados do Cliente
 **Projeto:** MonsterRanking: um sistema de engajamento para alunos de academia  
 **Cliente:** Academia Corpo Atlético  
@@ -67,21 +65,79 @@ Aumentar o engajamento dos alunos com os produtos vendidos pela academia atravé
 ---
 
 ## 📓 6. Materiais e Métodos
+Link da Modelagem do Sistema: https://drive.google.com/file/d/114MBagQ84uQAI_lknRCmNJ6z2Jw25D8K/view?usp=sharing
+
 **Tecnologias:**
 - Flutter, Dart
 - Firebase (Auth, Firestore, Rules)
 - Figma, Jira, Lucidchart/Draw.io
 - Bibliotecas: `firebase_core`, `firebase_auth`, `cloud_firestore`, `google_sign_in`, `provider`, `flutter_hooks`, `flutter_svg`, `google_fonts`
 
+Link da Arquitetura do Sistema: https://drive.google.com/file/d/1XpfvHybYba74oO2aDqLWRD-ondZy6coN/view?usp=sharing
+
 ---
 
-## 🔄 7. Resultados Esperados
-- Protótipos funcionais das telas principais no Figma
-- Código funcional de login e ranking
+## 🔄 7. Resultados
+
+### Protótipo: 
+### 🏠 Tela Home
+A tela inicial exibe dois carrosséis de cards:
+Cards de Ranking: mostram os três primeiros colocados nas votações e rankings de pontuação, com botão para visualizar a lista completa.
+
+
+Cards de Desafios: destacam os desafios ativos, divididos em categorias como diário, semanal e mensal.
+
+
+👉 Ações do usuário: visualizar rankings e desafios, clicar em “Ver mais”.
+👉 Reações do sistema: carrega os dados do usuário e dos rankings via Firebase e exibe as informações dinamicamente.
+		
+### 🏆 Tela de Rankings
+Essa tela lista todos os usuários ordenados por pontuação acumulada. Também exibe as votações de engajamento, como:
+Top 3 maiores fofoqueiros
+
+
+👉 Ações do usuário: visualizar ranking completo, votar em usuários.
+👉 Reações do sistema: votações são armazenadas no Firestore e os resultados atualizados em tempo real.
+
+
+
+### 🎯 Tela de Desafios
+Mostra todos os desafios disponíveis, com título, descrição e quantidade de pontos. O usuário pode:
+Clicar em “Concluir” e ganhar os pontos
+
+
+Ver seu progresso
+
+
+👉 Ações do usuário: marcar desafio como concluído.
+👉 Reações do sistema: incrementa a pontuação do usuário e altera o botão para "Concluído ✔".
+
+
+### 👤 Tela de Perfil
+Exibe o nome e foto do usuário, bem como sua pontuação atual e botão para editar o perfil.
+👉 Ações do usuário: editar nome e foto.
+👉 Reações do sistema: dados atualizados no Firebase e refletidos em todo o app.
+
+### Códigos das principais funcionalidades:
+Link do trecho de código: https://drive.google.com/file/d/1B4BMo112Litw1CJBYZ6Mil_wF1abJR8K/view?usp=sharing
+
+### 📝 O que esse código faz:
+Utiliza um StatefulWidget para permitir a atualização dinâmica da UI.
+
+
+Armazena uma variável booleana _isCompleted para verificar se o desafio já foi finalizado.
+
+
+Quando o botão é clicado, a função _handleComplete() atualiza o estado e muda a interface (por exemplo, muda o botão para "✔ Concluído").
+
 
 ---
 
 ## 📄 8. Conclusão
+**Impacto do sistema:**
+- Aumento na interação de pessoas
+- Um pequeno aumento na percepção sobre os produtos da Academia
+
 **Melhorias Futuras:**
 - Notificações push
 - Rankings por categorias (força, cardio, frequência)
@@ -89,12 +145,19 @@ Aumentar o engajamento dos alunos com os produtos vendidos pela academia atravé
 
 ---
 
-## 🚀 10. Divulgação
+## 🚀 9. Divulgação
+link do artigo: https://www.linkedin.com/pulse/monster-ranking-lucas-silva-bg4ue/?trackingId=cysZQoZFSHOImFKjIAMCBQ%3D%3D
+
 A criação de um perfil no LinkedIn para o projeto está prevista, contendo:
 - Logo do projeto
 - Resumo
 - Nomes dos integrantes e orientador
 - Publicação de artefatos a cada sprint (diagramas, códigos, artigos)
+
+---
+
+## 10. Carta de Autoriazção e Apresentação
+Link: https://drive.google.com/file/d/1kHv1Q1YcboG1UUSTHnys7Et9JveiixE2/view?usp=sharing
 
 ---
 
