@@ -98,7 +98,7 @@ A criação de um perfil no LinkedIn para o projeto está prevista, contendo:
 
 ---
 
-## 🚀 11. Relato Individual
+## 11. Relato Individual
 ### João Henrique Augait do Nascimento 
 Neste relato compartilho minha experiência durante o desenvolvimento de um aplicativo mobile, no qual fui responsável por uma parte essencial do projeto: a construção das interfaces (telas) e a integração com o Firebase.
 
@@ -106,4 +106,20 @@ Desde o início do projeto, envolvi-me ativamente no planejamento e na estrutura
 
 A integração com o Firebase foi uma etapa crucial, que exigiu atenção especial à segurança e à eficiência da comunicação entre o app e o backend. Realizei a configuração dos serviços de autenticação (Firebase Auth), banco de dados em tempo real (ou Firestore, conforme o projeto), e também implementei o armazenamento de dados e arquivos. Trabalhei ainda na lógica de autenticação de usuários, leitura e escrita de dados no banco, e controle de sessões.
 
+### Sabrina Ribeiro Guimarães dos Santos
+Durante o desenvolvimento de um aplicativo mobile, tive a oportunidade de atuar em várias frentes, cuidando do design, do desenvolvimento e também da organização das tarefas usando o Trello. Foi uma experiência intensa e cheia de aprendizados, na qual assumi responsabilidades importantes em cada etapa do processo.
 
+No design, trabalhei bastante com o Figma para criar as interfaces do app, sempre pensando em como deixá-las bonitas, fáceis de usar e bem organizadas visualmente. Um dos maiores desafios foi desenvolver a tela de usuário, pois precisava garantir uma navegação intuitiva e distribuir bem as informações, para que qualquer pessoa conseguisse usar o aplicativo sem dificuldades.
+
+No desenvolvimento, usei o Flutter, buscando sempre que as telas fossem responsivas e que a navegação fosse suave. Para o backend, contei com o Firebase, onde implementei desde autenticação de usuários até o banco de dados em tempo real, além do armazenamento de arquivos e dados.
+
+Ao longo do projeto, enfrentei alguns desafios técnicos e também ligados à usabilidade. Mas, com bastante teste, ajustes e troca de ideias com a equipe, consegui superar os obstáculos. No fim, a combinação de um design bem pensado, código funcional e a organização das tarefas pelo Trello foi fundamental para que o projeto evoluísse bem.
+
+##Matheus Azevedo Rosa
+Esse é um relato pessoal da minha experiência em um projeto de desenvolvimento de um aplicativo mobile. Fiquei responsável por uma parte bem importante: a autenticação de usuários com Firebase, além de criar as telas de login, cadastro, o menu principal e também o primeiro protótipo da integração com o Firebase.
+
+Desde o início, participei ativamente do planejamento e da estrutura do app. Foquei bastante na experiência do usuário e em deixar a navegação entre as telas o mais fluida e intuitiva possível. Usei Flutter durante todo o desenvolvimento, sempre prestando atenção na responsividade e na organização visual dos elementos.
+
+A parte da integração com o Firebase foi um dos maiores desafios. Tive que configurar os serviços de autenticação (Firebase Auth), banco de dados (Realtime Database ou Firestore, dependendo do que o projeto pedia) e também o armazenamento de dados e arquivos. Além disso, fui eu quem cuidou de toda a lógica de login, leitura e escrita no banco e também do controle de sessões.
+
+Foi uma experiência muito boa, onde aprendi bastante e tive a chance de colocar em prática vários conceitos de mobile e backend na prática.
