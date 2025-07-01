@@ -115,7 +115,7 @@ No desenvolvimento, usei o Flutter, buscando sempre que as telas fossem responsi
 
 Ao longo do projeto, enfrentei alguns desafios técnicos e também ligados à usabilidade. Mas, com bastante teste, ajustes e troca de ideias com a equipe, consegui superar os obstáculos. No fim, a combinação de um design bem pensado, código funcional e a organização das tarefas pelo Trello foi fundamental para que o projeto evoluísse bem.
 
-##Matheus Azevedo Rosa
+## Matheus Azevedo Rosa
 Esse é um relato pessoal da minha experiência em um projeto de desenvolvimento de um aplicativo mobile. Fiquei responsável por uma parte bem importante: a autenticação de usuários com Firebase, além de criar as telas de login, cadastro, o menu principal e também o primeiro protótipo da integração com o Firebase.
 
 Desde o início, participei ativamente do planejamento e da estrutura do app. Foquei bastante na experiência do usuário e em deixar a navegação entre as telas o mais fluida e intuitiva possível. Usei Flutter durante todo o desenvolvimento, sempre prestando atenção na responsividade e na organização visual dos elementos.
