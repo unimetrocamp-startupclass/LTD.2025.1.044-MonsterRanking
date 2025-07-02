@@ -190,6 +190,9 @@ Durante a apresentação, consegui falar tudo o que precisava de forma bem natur
 
 No geral, foi uma experiência muito positiva, e espero que no próximo projeto eu consiga fazer ainda melhor.
 
+## Felipe Orpheu Santoro
+Este projeto contribuiu significativamente para o meu desenvolvimento, tanto pessoal quanto profissional. Pude compreender melhor o papel do Scrum Master, atuando na remoção de obstáculos e no apoio à equipe para manter o foco, assim como o do Product Owner, que se destaca pela organização e priorização das tarefas. Além disso, tive a oportunidade de estudar novas linguagens de programação e explorar métodos mais eficientes, o que ampliou minhas habilidades como desenvolvedor de software. 
+
 A parte da integração com o Firebase foi um dos maiores desafios. Tive que configurar os serviços de autenticação (Firebase Auth), banco de dados (Realtime Database ou Firestore, dependendo do que o projeto pedia) e também o armazenamento de dados e arquivos. Além disso, fui eu quem cuidou de toda a lógica de login, leitura e escrita no banco e também do controle de sessões.
 
 Foi uma experiência muito boa, onde aprendi bastante e tive a chance de colocar em prática vários conceitos de mobile e backend na prática.
